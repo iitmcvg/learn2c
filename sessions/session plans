@@ -1,0 +1,17 @@
+ 1. How computers see, pixel access, color spaces, images(as a matrix)..								(1 hr)
+ 2. Operations on images - thresholding, blurring, opening, closing 									(1 hr)
+ 3. Extracting data from an image - not only colors(histogram), v hv features -- edges, corners. 
+ 																--  something about non-max suppression	(1 hr)
+ 4. Discussion -- about some problems..																	(1/2 hr)
+ 5. Features -- shapes --> after contours
+ 	Not only features, generalised -- contours
+ 	Features - coordinate transforms(parameterisation), then shapes -- lines, circle..					(1 hr)
+ 6. Hands on session -- on PS 																			(2 hrs)
+ 7. Template Matching , (maybe gaussian pyramids and hybrid images) 									(1 hr)
+ 8. Harris corner detection 
+ 9. Discussion -- about sessions till now															    (1/2 hr same day)
+ 10. Scale invariant features -- maybe SIFT																(2 hrs)
+ 11. Machine learning gen intro 																		(2 hrs)
+ 	 Fitting and Alignment -- least square fit method ,RANSAC (for SVM) 
+ 12. Project Ideation session and allocation.															(1 hr)
+   
